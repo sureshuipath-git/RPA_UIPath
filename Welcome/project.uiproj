@@ -1,0 +1,6 @@
+{
+  "Name": "Welcome",
+  "ProjectType": "Process",
+  "Description": "This is welcome Process Bot",
+  "MainFile": "Main.xaml"
+}
